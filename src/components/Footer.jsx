@@ -3,7 +3,7 @@ import Zuri from '../assets/zuri.png';
 import I4G from '../assets/I4G.png';
 const Footer = () => {
 	return (
-		<div className='flex justify-between mx-10 my-10'>
+		<div className='flex justify-between mx-10 my-10 border-t pt-10'>
 			<div>
 				<img className='' src={Zuri} alt='Zuri logo' />
 			</div>
