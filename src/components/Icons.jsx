@@ -4,7 +4,7 @@ import Github from '../assets/Icon.png';
 
 const Icons = () => {
 	return (
-		<div className='flex'>
+		<div className='flex  justify-center gap-8'>
 			<div>
 				<img src={Slack} alt='Slack icon' />
 			</div>
